@@ -1,0 +1,24 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  width: 1000px;
+  height: 1000px;
+}
+
+.search {
+  flex: 1;
+}
+
+.video-detail {
+  flex: 10;
+
+}
+
+.video-list {
+  flex: 1;
+
+}
+
+.video-item {
+  flex: 1;
+}
